@@ -3,3 +3,6 @@
 ################################################################################
 
 /csharp.google.sheet.solution/.vs/csharp.google.sheet.solution/v17
+/csharp.google.sheet.solution/csharp.google.sheet/obj
+/csharp.google.sheet.solution/csharp.google.sheet/bin/Debug/net6.0
+/csharp.google.sheet.solution/csharp.google.sheet/mastercard-344422-60f4220a84b5.json
